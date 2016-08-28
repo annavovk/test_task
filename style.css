@@ -1,0 +1,80 @@
+* {
+    font-family: sans-serif;
+}
+
+h1 {
+    font-weight: normal;
+    font-size: 280%;
+    color: cornflowerblue;
+}
+
+#header {
+    color: cornflowerblue;
+}
+
+#head {
+    background: url(palma1.png) auto no-repeat;
+    background-position: bottom;
+    background-attachment: fixed;
+    background-size: cover;
+    border: 0;
+}
+
+#page {
+    background-color: white;
+    margin: auto;
+    width: 1000px;
+    height: 1000px;
+    padding: 30px;
+}
+
+body {
+    background-color: #ddd;
+    margin: 0;
+    padding: 0 30px;
+}
+
+#contacts {
+    border: 1px solid green;
+    margin: 0 10px 10px 1147px;
+    color: cornflowerblue;
+}
+
+#country {
+    border: 1px solid yellow;
+    margin: 0 10px 10px 1200px;
+    color: cornflowerblue;
+}
+
+#top-menu {
+    border: 1px solid red;
+    padding: 10px 50px;
+}
+
+#top-menu .button {
+    color: white;
+    padding: 10px 20px;
+    border-left: 1px solid transparent;
+    border-right: 1px solid transparent;
+}
+
+#top-menu .button:hover {
+    background-color: black;
+    border-left: 1px solid white;
+    border-right: 1px solid white;
+}
+
+#info {
+    border: 1px solid blue;
+    margin: 0 1000px 0 0;
+}
+
+#news {
+    border: 1px solid blueviolet;
+    margin: 0 0 0 1000px;
+}
+
+#image {
+    background: url(image.jpg) no-repeat center;
+    height: 900px;
+}
